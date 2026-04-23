@@ -12,7 +12,6 @@
         {"name": "Floating", "rules": "Gravity does not affect this arrow."},
         {"name": "Foggy", "rules": "Bursts into a cloud of mist on impact. Grants partial cover."},
         {"name": "Tongued", "rules": "You can dictate a short sentence to the arrow which it recites on impact."},
-        {"name": "Second Chance", "rules": "You can remove one feature from this arrow and regain the crafting points. Including this one."},
         {"name": "True", "rules": "Can hit invisible targets if you describe the target to the arrow."},
         {"name": "Colorful", "rules": "Choose a color. On impact this arrow bursts, covering the area in hard to remove coloring."},
         {"name": "Listening", "rules": "For the next minute after firing, you can listen as if you were in the space of the arrow"},
