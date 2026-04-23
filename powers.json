@@ -1,0 +1,21 @@
+{
+    "arrows": [
+        {"name": "Accurate", "rules": "Gain +2 to attack rolls made with this arrow."},
+        {"name": "Explosive", "rules": "On impact, this arrow explodes and deals 2 fire damage to each creature within 5 ft."},
+        {"name": "Healing", "rules": "Allies hit by this arrow heal 1d4 hitpoints instead of taking damage."},
+        {"name": "Bouncy", "rules": "This arrow can bounce off of one surface before it hits its first target."},
+        {"name": "Immaterial", "rules": "You can shoot this arrow through solid objects."},
+        {"name": "Toppling", "rules": "The target must succeed on a DC 12 Strength save or be knocked Prone."},
+        {"name": "Splitting", "rules": "You can target an additional creature with this attack."},
+        {"name": "Invisiblerer", "rules": "Allies hit by this turn Invisible for 1 minute (ends on attack/spell)."},
+        {"name": "Fire", "rules": "The arrow deals an extra 1d8 Fire damage."},
+        {"name": "Blinding", "rules": "Target must succeed on a DC 13 Constitution save or be Blinded until the end of its next turn."},
+        {"name": "Beau's Finest: Seeker", "rules": "This arrow automatically hits any target you have seen in the last minute."}
+    ],
+    "trinkets": [
+        {"name": "Compass of Nearness", "rules": "Always points to the nearest source of fresh water within 1 mile."},
+        {"name": "Warmth Stone", "rules": "A pebble that stays at exactly 100°F (38°C)."},
+        {"name": "Key of Locks", "rules": "Tells you the name of the person who last locked the door this key is inserted into."},
+        {"name": "Glittering Sandglass", "rules": "A 1-minute timer that dings only in your mind when finished."}
+    ]
+}
