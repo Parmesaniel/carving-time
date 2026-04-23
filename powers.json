@@ -1,16 +1,24 @@
 {
     "arrows": [
-        {"name": "Accurate", "rules": "Gain +2 to attack rolls made with this arrow."},
+        {"name": "Accurate", "rules": "Gain +2 to attack rolls made with this arrow"},
         {"name": "Explosive", "rules": "On impact, this arrow explodes and deals 2 fire damage to each creature within 5 ft."},
-        {"name": "Healing", "rules": "Allies hit by this arrow heal 1d4 hitpoints instead of taking damage."},
-        {"name": "Bouncy", "rules": "This arrow can bounce off of one surface before it hits its first target."},
+        {"name": "Flaming", "rules": "All damage from this arrow is fire damage and ignites flammable objects."},
+        {"name": "Healing", "rules": "Instead of dealing damage to allies with this arrow, they heal 1d4 hitpoints instead."},
+        {"name": "Radiant", "rules": "All attacks with this arrow deal radiant damage instead."},
+        {"name": "Boundy", "rules": "This arrow can bounce off of one surface before it hits its first target."},
+        {"name": "Roped", "rules": "After dealing damage to a target, if the target is small or medium, you can either pull yourself to the target or make a strength contest to pull the target 10 ft towards you."},
+        {"name": "Glowing", "rules": "The arrow gains all benefits from the Light spell and leaves a glowing trail in it's path."},
         {"name": "Immaterial", "rules": "You can shoot this arrow through solid objects."},
-        {"name": "Toppling", "rules": "The target must succeed on a DC 12 Strength save or be knocked Prone."},
-        {"name": "Splitting", "rules": "You can target an additional creature with this attack."},
-        {"name": "Invisiblerer", "rules": "Allies hit by this turn Invisible for 1 minute (ends on attack/spell)."},
-        {"name": "Fire", "rules": "The arrow deals an extra 1d8 Fire damage."},
-        {"name": "Blinding", "rules": "Target must succeed on a DC 13 Constitution save or be Blinded until the end of its next turn."},
-        {"name": "Beau's Finest: Seeker", "rules": "This arrow automatically hits any target you have seen in the last minute."}
+        {"name": "Floating", "rules": "Gravity does not affect this arrow."},
+        {"name": "Foggy", "rules": "Bursts into a cloud of mist on impact. Grants partial cover."},
+        {"name": "Tongued", "rules": "You can dictate a short sentence to the arrow which it recites on impact."},
+        {"name": "Second Chance", "rules": "You can remove one feature from this arrow and regain the crafting points. Including this one."},
+        {"name": "True", "rules": "Can hit invisible targets if you describe the target to the arrow."},
+        {"name": "Colorful", "rules": "Choose a color. On impact this arrow bursts, covering the area in hard to remove coloring."},
+        {"name": "Listening", "rules": "For the next minute after firing, you can listen as if you were in the space of the arrow"},
+        {"name": "Scrying", "rules": "For the next minute after firing you can see as if you were in the space of the arrow"},
+        {"name": "Invisible", "rules": "Really hard to find, but you gain advantage on attacks made with this arrow."},
+        {"name": "Bursting", "rules": "This arrow brusts into many pieces on impact and the splinters deal 1 damage to each creature within 30 ft."}
     ],
     "trinkets": [
         {"name": "Compass of Nearness", "rules": "Always points to the nearest source of fresh water within 1 mile."},
