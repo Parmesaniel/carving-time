@@ -21,9 +21,41 @@
         {"name": "Bursting", "rules": "This arrow brusts into many pieces on impact and the splinters deal 1 damage to each creature within 30 ft."}
     ],
     "trinkets": [
-        {"name": "Compass of Nearness", "rules": "Always points to the nearest source of fresh water within 1 mile."},
-        {"name": "Warmth Stone", "rules": "A pebble that stays at exactly 100°F (38°C)."},
-        {"name": "Key of Locks", "rules": "Tells you the name of the person who last locked the door this key is inserted into."},
-        {"name": "Glittering Sandglass", "rules": "A 1-minute timer that dings only in your mind when finished."}
+        {
+            "name": "The Ash-Wood Lion", 
+            "rules": "A small, jaggedly carved lion. As a reaction when an ally within 30ft fails a save against being Frightened, you can hold the carving aloft to let them reroll that save."
+        },
+        {
+            "name": "Whittled Willow-Whistle", 
+            "rules": "A smooth green-wood whistle. When blown, minor beasts (CR 0) become friendly for 1 minute. In combat, use it to distract an enemy, giving the next ally who attacks it a +1 bonus to hit."
+        },
+        {
+            "name": "The Cedar Knot-Mender", 
+            "rules": "A thimble-shaped piece of cedar. While holding this, any magical healing you provide to an ally also stabilizes a second dying creature within 5 feet of the target."
+        },
+        {
+            "name": "Oak-Eye Spectacle", 
+            "rules": "A ring of dark oak with a hollow center. Use a Bonus Action to look through it and 'mark' a target. The next ally to hit that target deals an extra 1d4 damage."
+        },
+        {
+            "name": "Hollow-Pine Censer", 
+            "rules": "A pine cone carved to hold embers. During a short rest, allies regain an extra 1d6 HP. In combat, you can use an Action to grant an ally within 5ft a fresh save against being Poisoned."
+        },
+        {
+            "name": "The Drifting Seed-Pod", 
+            "rules": "A weightless carving of a maple seed. As a Bonus Action, toss it to an ally within 30ft; their next 10ft of movement doesn't provoke Opportunity Attacks. It then drifts back to your hand."
+        },
+        {
+            "name": "Elder-Stump Chalk-Case", 
+            "rules": "A gnarled wooden tube holding glowing chalk. If you draw a symbol on a surface, allies who stay within 5ft of it gain a +1 bonus to AC for 1 round."
+        },
+        {
+            "name": "The Mimic-Nut", 
+            "rules": "A walnut shell carved with a tiny mouth. It can record 6 seconds of audio. If thrown (Action) to a point within 30ft, the sound plays, allowing a nearby ally to Hide as a Bonus Action."
+        },
+        {
+            "name": "Root-Bound Lantern", 
+            "rules": "A lantern frame grown from intertwined roots. It sheds 10ft of light. Allies within this light gain a +2 bonus to Initiative rolls if the lantern is active at the start of combat."
+        }
     ]
 }
